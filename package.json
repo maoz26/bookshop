@@ -1,0 +1,13 @@
+{
+  "name": "bookshop_ws",
+  "version": "1.0.0",
+  "main": "ws_index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maoz Tamir",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
